@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > requirements.txt не потрібен.
+> 
 > gitignore.git не вийшло ініціалізувати через термінал.
 
 > [!TIP]
